@@ -1,0 +1,5 @@
+env/
+.eslintrc
+.env
+.git-credentials
+.gitconfig
