@@ -1,0 +1,107 @@
+/Users/sarahschneider/Documents/_Sarah/projects/code/seiu503github/survey-parser/env/bin/python /Users/sarahschneider/Documents/_Sarah/projects/code/seiu503github/survey-parser/app.py		
+A ooo	Initial Comments	
+	"This report reflects the findings of the unannounced, on-site complaint survey, OR10624, completed on 05/05/2016. The agency was evaluated for compliance with the applicable Oregon Administrative Rules for ""In Home-Care Agencies,"" Division 333, Chapter 536. The"	
+	following deficiencies were identified:	
+		
+A 128	OAR 333-536-0050 (5-10) Agency Personnel	A 128
+	An agency's owner or designee shall:	
+	"Assume full legal, financial, and overall responsibility for the agency's operation; and"	
+	"Serve as, or employ, a qualified administrator."	
+	An administrator shall meet the following qualifications:	
+	Possess a high school diploma or equivalent; and	
+	Have at least two years of professional or	
+	management experience in a health-related field or program or have completed a training program approved by the Division.	
+	An administrator or designee shall be accessible and available during all hours in which services are being provided to clients and must be able to be on site at the parent agency	
+	An administrator or designee shall be responsible for:	
+	Developing and implementing written and	
+	"location within a timely manner as needed. An administrator shall assign, in writing, a qualified designee to act as Administrator in his or her temporary absence."	
+	"current policies and procedures necessary to direct the administrative, personnel, and client care operations of the agency, including but not limited to the requirements in these rules;"	
+Health Care Requlation and Qualitv lmorovement		
+A 128 Continued From page 1 A 128		
+	Ensuring the completeness and accuracy of all information provided to the public regarding the agency and its services;	
+	Ensuring the provision of safe and appropriate services in accordance with written service plans;	
+	"Ensuring that all individuals providing services for the agency meet the qualification, orientation, competency, training, and education"	
+	requirements in the rules;	
+	Ensuring that personnel and client care practices are consistent with the agency's written policies and procedures.	
+	"Ensuring that client care assignments are based on the caregiver's abilities, skills, and competence;"	
+	Ensuring that the agency does not accept or I retain clients for whom it does not have the capabilities or resources to provide services;	
+	"(i) Ensuring the timely internal investigation of complaints, grievances, accidents, incidents, medicatlon or treatment errors, and allegations of abuse or neglect involving individuals providing services for the agency."	
+	"An agency shall maintain in its records documentation of the complaint or event, the investigation, the results, and actions taken;"	
+	U) Ensuring the timely reporting of allegations of abuse or neglect to the appropriate authority that includes but is not limited to the	
+	"Department of Human Services, Oregon Health Authority, Public Health Division, or local law enforcement agency."	
+	"Personnel records for all caregiver, nursing staff, and employees shall include at a minimum the following:"	
+	Evidence of pre·employment screening;	
+	Evidence that the in·home care agency has I	
+	conducted a criminal records check on all subject	
+		
+A 128	Continued From page 2	A 128
+	individuals in accordance with OAR	
+	333-536-0093.	
+	"The in-home care agency must ensure that a criminal records check has been conducted on all subject individuals employed by or volunteering for an agency on or after July 6, 2011."	
+	"If the screening indicates that a subject individual has been convicted for crimes against an individual or property, the agency shall make a determination of the individual ' s fitness to provide care to clients in accordance with OAR 333-536-0093."	
+	333-536-0093.	
+	"Evidence that all position qualifications have been met, including required licensure;"	
+	Current position job description(s) signed by the individual(s);	
+	"Evidence of orientation, training, competency,"	
+	Evidence of annual performance evaluations; and	
+	Evidence of a valid driver's license with	
+	and ongoing education;	
+	I current auto insurance for each individual whose	
+	"I duties include transporting clients in motor I vehicles. ,"	
+	I 	
+	I (10) An agency shall comply with all applicable	
+	"state and local laws, statutes, rules, and ordinances. ·"	
+	"This Rule is not met as evidenced by: Based on interview, complaint and incident documentation, and agency policy and"	
+	"procedures, it was determined that the agency failed to complete and document the investigation, the results and the actions taken by the agency for complaint investigations, as required by rule."	
+	Findings include:	
+		
+		
+		
+		
+		
+Health Care Requlation and Qualitv lmnrovement		
+"records, dated 01/01/2015 through 05/05/2016, revealed a complaint dated 05/04/2016, documented on the ""Incident/Accident Report"		
+"Form."" The agency received a complaint from an employee concerning a client accident that resulted in client being hospitalized."		
+"Documentation failed to reflect if the agency had completed an investigation , the results of the investigation or that any actions had been taken by the agency. Additionally, the form's second page, which contains the actions taken and the administrator/manager signature, was left blank."		
+The review of documentation and interviews revealed the agency failed to follow their policy and procedures.		
+A 135 OAR 333-536-0060 (1) Clients Rights A 135		
+The right to be free from physical and chemical restraints;		
+"The right to be free from discrimination in regard to race, color, national origin, gender, sexual orientation, or religion."		
+U) The right to have access to his or her client record;		
+(k) The right to have cHent information and records confidentially maintained by the agency;		
+A 135		
+Continued From page 6		
+"(I) The right to be advised in writing, before care is initiated, of the charges for the services to be furnished, and the amount of payment that will be required from the client;"		
+(m} The right to a written 30-day notice of		
+A 135		
+' termination of services by the agency that		
+specifies the reason(s) for the termination with		
+the following exceptions:		
+"The right to immediate oral or written notice of termination of services by the agency at the .time the agency determines that the safety of its staff or the client cannot be ensured. If oral notice is given, the agency must also subsequently"		
+The right to a written 48-hour notice of termination of services by the agency in the event of non-payment in accordance with the agency's disclosed payment requirements.		
+provide the client a written confirmation of the oral notice of termination of services.		
+This Rule is not met as evidenced by:		
+"Based on interview and review of agency complaint and incident documentation, it was determined that the agency failed to protect their clients from the right to be free from theft and financial exploitation, as required by rule."		
+Findings Include:		
+"1. Review of agency complaint and incident records, dated 01/01/2015 through 05/05/2016, revealed documentation of a complaint dated 06/09/2015, titled ""APS [Adult Protective Services] Report."" The agency received a report from one of the client's caregivers that a different caregiver was stealing food and medication from the client. Documentation and an interview with the administrator revealed the caregiver was was discharged from the agency on 06/09/2015."		
+A 135		
+Continued From page 7		
+"Documentation revealed the caregiver had continued to provide care to clients from 04/08/2015 to 06/09/2015, 62 days after the agency first became aware of the theft complaint."		
+"Documentation revealed a second incident regarding the same client, dated 11/02/2015,"		
+"titled ""APS Report."" The agency received a report from the client caregiver that a different caregiver was stealing money from the client."		
+"Documentation failed to reflect the caregivers were removed from duty. Documentation failed to reflect that the agency had completed an investigation, the results of the investigation, or that any actions had been taken by the agency."		
+"Review of agency complaint and incident records, dated 01/01/2015 though 05/05/2016, revealed documentation of complaint dated 07/29/2015, titled ""APS Report."" The agency received a report from the client that the client's caregiver was stealing the client's property. Documentation revealed that the caregiver was removed from duty for this client, but continued to provide care for other clients. Additionally, documentation failed to reflect that the agency had completed an investigation, the results of the investigation, or that any actions had been taken by the agency."		
+"Review of agency complaint and incident records, dated 01/01/2015 through 05/05/2016, revealed documentation of a complaint dated 09/25/2015, titled ""APS Report."" The agency received a report from a client advocate that the client's caregiver was using the client's credit card without permission. Documentation revealed that the caregiver was removed from duty from all clients on 09/23/2015. Additionally,"		
+documentation failed to reflect that the agency		
+A 135		
+135		
+Continued From page 8		
+"had completed an investigation, the results of the investigation, or that any actions had been taken by the agency."		
+"Review of agency policies and procedures revealed an undated,policy titled ""Policies and"		
+"During an interview with the agency administrator on 05/05/2016, he/she verified that there was no other investigation documentation for these clients."		
+"Procedures for Complaints, Incidents, Accidents"		
+"and Error Reporting."" The policy indicated the agency ""....determine whether it needs to go to APS or not...conducts an internal investigation... follow up with the client...[and] final documentation including results and resolution [sic]."""		
+The review of documentation and interviews revealed the agency failed to follow their policy and procedures		
+135		
+		
+Process finished with exit code 0		

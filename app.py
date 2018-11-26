@@ -1,4 +1,5 @@
 from bs4 import BeautifulSoup
+import csv
 with open("html/AtEase.html") as fp:
     soup = BeautifulSoup(fp, 'html.parser')
 
@@ -17,8 +18,12 @@ def els_to_return(tag):
         pass
 
 els = soup.find_all(els_to_return)
-print(els)
 
 for el in els:
-    # if p.string:
-        print(el.get_text())
+    text = el.get_text()
+    if len(text) > 5:
+        print("Comments")
+        print(text)
+    else:
+        print("Code")
+        print(text)
